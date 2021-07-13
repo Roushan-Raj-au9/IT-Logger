@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "Heavy Load in 001",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-06-29T16:36:47.266Z",
+      "id": 1
+    },
+    {
+      "message": "Routing Fixed in 007",
+      "attention": false,
+      "tech": "Roushan Raj",
+      "date": "2021-06-29T16:46:35.776Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Roushan",
+      "lastName": "Raj",
+      "id": 9
+    },
+    {
+      "firstName": "Jhon",
+      "lastName": "Doe",
+      "id": 10
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Tyson",
+      "id": 11
+    }
+  ]
+}
